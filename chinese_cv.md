@@ -1,11 +1,11 @@
 ###我的简历###
 
 ##基本信息##
-* 姓 名:吴述军
-* 性 别:男
-* 生 日:1989年
-* 学 历:大学本科
-* 毕业学校:东华理工大学
+* 姓 名 : 吴述军
+* 性 别 : 男
+* 生 日 : 1989年
+* 学 历 : 大学本科
+* 毕业学校 : 东华理工大学
 
 * Email:sjwu1234@gmail.com
 *    QQ:812662025
@@ -19,10 +19,11 @@
 * android 4.0车机：主要负责android Launcher、settings
 * android 4.0互联车机：主要负责android Launcher、Settings定制，DataCenter（负责车机和服务器的数据交互 Socket http）
 
-###IOS：
+###IOS（目标方向）：
 * 车友互联2.4 ios客户端：主要负责UI及地图想着功能
 
 ##其它信息
-* Github:
-* StackOverFlow:
-* CSDN Blog:
+* Github:[chinabrant](https://github.com/chinabrant)
+* StackOverFlow:[chinabrant](http://stackoverflow.com/users/2160339/chinabrant)
+* CSDN Blog:[我的CSDN博客](http://blog.csdn.net/wu_shu_jun)
+
