@@ -11,28 +11,37 @@
 * Email:sjwu1234@gmail.com
 *    QQ:812662025
 
-##自我评价##
-* 自学能力强
-* 大二开始自学java,后学过linux程序设计,大四时接触到android,学习了android软件
-开发。本人自学能力强,工作期间还自学了ios应用程序开发,今年初转到ios组进行ios开发。 
-* 能够熟练使用windows、linux和mac操作系统,熟练使用eclipse进行java、android程序的开
-发。熟练使用XCODE进行ios应用程序开发。
-
 ##工作经历##
-* 2012年6月 --- 至今 : 深圳市美赛达科技有限公司
+* 2014年6月 --- 至今 : 深圳市甜蜜科技有限公司
+* 2012年6月 --- 2014年5月 : 深圳市美赛达科技有限公司
 
 ##项目经验##
+
+# 深圳市甜密科技有限公司
+* 甜密街 iOS客户端 （所有的开发及上线均一个人完成）
+
+* 深圳特专 iOS客户端 （单人开发及上线）
+深圳特专是面向深圳广大烟民的专属手机客户端，以“专一品质•专业服务•专享体验”为服务宗旨，致力于打造一个优质的服务平台，注册成为会员后，在这里你可以查找优质“特专”商户，查询卷烟真伪鉴别信息，并获取最新服务资讯。
+
+[深圳特专 AppStore](https://itunes.apple.com/us/app/shen-zhen-te-zhuan/id979093247?l=zh&ls=1&mt=8)
+
+* 新版本甜蜜街 iOS客户端 （老版本弃用，完全重新开发，已上线）
+甜蜜街是国内首款专门针对都市情侣的精致生活服务APP应用，致力于解决情侣日常生活、过时过节、重要时刻去哪儿和干什么的问题，通过精挑细选推荐各地最新潮、最特色、最用心、最情调的浪漫攻略和约会圣地，提供当下最合适情侣约会的吃喝、玩乐、旅行、购物等精品服务，帮助情侣提升感情生活品质。
+
+[甜蜜街 AppStore](https://itunes.apple.com/us/app/tian-mi-jie-qing-lu-sheng/id897834118?l=zh&ls=1&mt=8)
+
+* 早餐会 iOS客户端
+一个在线的早餐预订应用
+
+# 深圳市美赛达股份科技有限公司
+###iOS
+* 车友互联2.4 iOS客户端：主要负责UI及地图相关功能
+* 车友互联3.0 iOS客户端: 主要负责主框架、周边、违章查询等功能
+
 ###Android:
 * android 2.3车机：主要负责android Launcher模块、录音、文件管理器
 * android 4.0车机：主要负责android Launcher、settings
 * android 4.0互联车机：主要负责android Launcher、Settings定制，DataCenter（负责车机和服务器的数据交互 Socket http）
 
-###iOS
-* 车友互联2.4 iOS客户端：主要负责UI及地图相关功能
-* 车友互联3.0 iOS客户端: 主要负责主框架、周边、违章查询等功能
 
-##其它信息
-* Github:[chinabrant](https://github.com/chinabrant)
-* StackOverFlow:[chinabrant](http://stackoverflow.com/users/2160339/chinabrant)
-* CSDN Blog:[我的CSDN博客](http://blog.csdn.net/wu_shu_jun)
 
